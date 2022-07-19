@@ -392,7 +392,7 @@
     },
     {
       "chainId": 4,
-      "address": "0x5592EC0cfb4dbc12D3aB100b257153436a1f0FEa",
+      "address": "0x1ADf2D392929FEf5287Fc08B67Ad7a7EF3345249",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
       "decimals": 18,
@@ -424,7 +424,7 @@
     },
     {
       "chainId": 4,
-      "address": "0xbF7A7169562078c96f0eC1A8aFD6aE50f12e5A99",
+      "address": "0x08459f49bA9EdE07684D8F5a2dFE23F46188e65A",
       "name": "Basic Attention Token",
       "symbol": "BAT",
       "decimals": 18,
