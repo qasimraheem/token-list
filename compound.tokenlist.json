@@ -10,7 +10,7 @@
     {
       "chainId": 4,
       "address": "0xe97d7AdC25134dD6D347E3C04F6d1721b1c09938",
-      "name": "Dai Stablecoin",
+      "name": "fDAI",
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
@@ -18,7 +18,7 @@
     {
       "chainId": 4,
       "address": "0xD0B879e6b5BA644d638A7fe3101c4CaE726a17f2",
-      "name": "Basic Attention Token",
+      "name": "fBAT",
       "symbol": "BAT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
@@ -26,11 +26,19 @@
     {
       "chainId": 4,
       "address": "0x36B498aF073F0F420FbD924d3267eB840b5E660c",
-      "name": "fFat",
+      "name": "fFAT",
       "symbol": "FAT",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    }, {
+      "chainId": 4,
+      "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     }
+    
   ],
   "version": {
     "major": 2,
