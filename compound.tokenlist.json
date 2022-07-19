@@ -37,6 +37,14 @@
       "symbol": "DAI",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     }
     
   ],
