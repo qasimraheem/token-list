@@ -395,7 +395,7 @@
       "address": "0xe97d7AdC25134dD6D347E3C04F6d1721b1c09938",
       "name": "Dai Stablecoin",
       "symbol": "DAI",
-      "decimals": 18,
+      "decimals": 1,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
     },
     {
@@ -427,7 +427,7 @@
       "address": "0xD0B879e6b5BA644d638A7fe3101c4CaE726a17f2",
       "name": "Basic Attention Token",
       "symbol": "BAT",
-      "decimals": 18,
+      "decimals": 1,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     },
     {
