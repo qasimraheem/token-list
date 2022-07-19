@@ -22,6 +22,14 @@
       "symbol": "BAT",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    },
+    {
+      "chainId": 4,
+      "address": "0x36B498aF073F0F420FbD924d3267eB840b5E660c",
+      "name": "fFat",
+      "symbol": "FAT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     }
   ],
   "version": {
