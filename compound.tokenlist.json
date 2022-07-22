@@ -56,7 +56,7 @@
     },
     {
       "chainId": 13937,
-      "address": "0xf8e81D47203A594245E36C48e151709F0C19fBe8",
+      "address": "0x4aD89B9F116A24693DBae1836e0E0bC781E23b95",
       "name": "fDAI",
       "symbol": "DAI",
       "decimals": 18,
@@ -64,7 +64,7 @@
     },
     {
       "chainId": 13937,
-      "address": "0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8",
+      "address": "0x79799F6133ea97993075AcFBD0552A117346589A",
       "name": "fBAT",
       "symbol": "BAT",
       "decimals": 18,
@@ -72,7 +72,7 @@
     },
     {
       "chainId": 13937,
-      "address": "0xd9145CCE52D386f254917e481eB44e9943F39138",
+      "address": "0x97AF8490c63675292eb6C1B80eAa25D3f421Ea43",
       "name": "fFAT",
       "symbol": "FAT",
       "decimals": 0,
