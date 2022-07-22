@@ -48,8 +48,8 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     },
     {
-      "chainId": 13937,
-      "address": "0x84019e2139567a2b24D4227AB238137dF9C08FF8",
+      "chainId": 4,
+      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
       "name": "Wrapped Fornax",
       "symbol": "WFRX",
       "decimals": 18,
