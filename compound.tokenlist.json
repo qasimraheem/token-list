@@ -56,7 +56,7 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     },
     {
-      "chainId": 1,
+      "chainId": 13937,
       "address": "0x4aD89B9F116A24693DBae1836e0E0bC781E23b95",
       "name": "fDAI",
       "symbol": "DAI",
