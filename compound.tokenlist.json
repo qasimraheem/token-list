@@ -64,7 +64,7 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
     },
     {
-      "chainId": 1,
+      "chainId": 13937,
       "address": "0x79799F6133ea97993075AcFBD0552A117346589A",
       "name": "fBAT",
       "symbol": "BAT",
@@ -72,7 +72,7 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     },
     {
-      "chainId": 1,
+      "chainId": 13937,
       "address": "0x97AF8490c63675292eb6C1B80eAa25D3f421Ea43",
       "name": "fFAT",
       "symbol": "FAT",
