@@ -49,14 +49,6 @@
     },
     {
       "chainId": 13937,
-      "address": "0xc778417E063141139Fce010982780140Aa0cD5Ab",
-      "name": "Wrapped Fornax",
-      "symbol": "WFRX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
-    },
-    {
-      "chainId": 13937,
       "address": "0x4aD89B9F116A24693DBae1836e0E0bC781E23b95",
       "name": "fDAI",
       "symbol": "DAI",
