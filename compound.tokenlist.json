@@ -53,6 +53,30 @@
       "symbol": "WFRX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    },
+    {
+      "chainId": 13937,
+      "address": "0xf8e81D47203A594245E36C48e151709F0C19fBe8",
+      "name": "fDAI",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
+    },
+    {
+      "chainId": 13937,
+      "address": "0xd8b934580fcE35a11B58C6D73aDeE468a2833fa8",
+      "name": "fBAT",
+      "symbol": "BAT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    },
+    {
+      "chainId": 13937,
+      "address": "0xd9145CCE52D386f254917e481eB44e9943F39138",
+      "name": "fFAT",
+      "symbol": "FAT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     }
     
   ],
