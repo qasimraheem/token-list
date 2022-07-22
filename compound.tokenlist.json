@@ -48,10 +48,10 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     },
     {
-      "chainId": 1,
+      "chainId": 13937,
       "address": "0x84019e2139567a2b24D4227AB238137dF9C08FF8",
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
+      "name": "Wrapped Fornax",
+      "symbol": "WFRX",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     },
