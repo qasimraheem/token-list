@@ -36,7 +36,7 @@
       "address": "0xA47E57337804243a804429554FB6fa90EA6Cfe39",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
-      "decimals": 0,
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     },
     {
@@ -44,7 +44,7 @@
       "address": "0x383CaD2b1a79fCaA3474699c1F81721d26C24fc9",
       "name": "Wrapped Fornax",
       "symbol": "WFRX",
-      "decimals": 0,
+      "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     }
   ],
