@@ -12,7 +12,7 @@
       "address": "0x4aD89B9F116A24693DBae1836e0E0bC781E23b95",
       "name": "fDAI",
       "symbol": "DAI",
-      "decimals": 18,
+      "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
     },
     {
@@ -20,7 +20,7 @@
       "address": "0x79799F6133ea97993075AcFBD0552A117346589A",
       "name": "fBAT",
       "symbol": "BAT",
-      "decimals": 18,
+      "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     },
     {
