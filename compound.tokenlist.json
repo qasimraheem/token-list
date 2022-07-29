@@ -1,5 +1,5 @@
 {
-  "name": "Compound",
+  "name": "Fornax",
   "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
     "compound",
@@ -28,6 +28,22 @@
       "address": "0x97AF8490c63675292eb6C1B80eAa25D3f421Ea43",
       "name": "fFAT",
       "symbol": "FAT",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    },
+    {
+      "chainId": 13937,
+      "address": "0x5C9776097B7d44BDc18F310f4361C53Af830Ded1",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    },
+    {
+      "chainId": 13937,
+      "address": "0x383CaD2b1a79fCaA3474699c1F81721d26C24fc9",
+      "name": "Wrapped Fornax",
+      "symbol": "WFRX",
       "decimals": 0,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     }
