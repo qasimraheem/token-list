@@ -33,7 +33,7 @@
     },
     {
       "chainId": 13937,
-      "address": "0xA47E57337804243a804429554FB6fa90EA6Cfe39",
+      "address": "0x5c9457BD23e55cFeA4B68454262C3Db1974e8e88",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -41,7 +41,7 @@
     },
     {
       "chainId": 13937,
-      "address": "0x383CaD2b1a79fCaA3474699c1F81721d26C24fc9",
+      "address": "0xFC621FB9920Ce8B5C7A3638c195358D1673FcE96",
       "name": "Wrapped Fornax",
       "symbol": "WFRX",
       "decimals": 18,
