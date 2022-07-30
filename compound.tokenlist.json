@@ -2,49 +2,25 @@
   "name": "Fornax",
   "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/compound-interface.svg",
   "keywords": [
-    "compound",
+    "fornax",
     "defi"
   ],
   "timestamp": "2021-05-27T20:37:00.000+00:00",
   "tokens": [
     {
-      "chainId": 13937,
-      "address": "0x4aD89B9F116A24693DBae1836e0E0bC781E23b95",
-      "name": "fDAI",
-      "symbol": "DAI",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_DAI.svg"
-    },
-    {
-      "chainId": 13937,
-      "address": "0x79799F6133ea97993075AcFBD0552A117346589A",
-      "name": "fBAT",
-      "symbol": "BAT",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
-    },
-    {
-      "chainId": 13937,
-      "address": "0x97AF8490c63675292eb6C1B80eAa25D3f421Ea43",
-      "name": "fFAT",
-      "symbol": "FAT",
-      "decimals": 0,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
-    },
-    {
-      "chainId": 13937,
-      "address": "0x2157957aE15Db4883833AaCe952f0B35B1608fd1",
-      "name": "Wrapped BTC",
-      "symbol": "WBTC",
-      "decimals": 8,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
-    },
-    {
-      "chainId": 13937,
-      "address": "0xFC621FB9920Ce8B5C7A3638c195358D1673FcE96",
+      "chainId": 13936,
+      "address": "0xfa512E06a6D5Abc1498494207bC490a6fE862EA1",
       "name": "Wrapped Fornax",
       "symbol": "WFRX",
       "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
+    },
+    {
+      "chainId": 13936,
+      "address": "0xba543270078828af108Fd7943947789049Fa0863",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_BAT.svg"
     }
   ],
