@@ -1,6 +1,6 @@
 {
   "name": "Fornax",
-  "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list/master/assets/compound-interface.svg",
+  "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list/master/assets/asset_FRX.svg",
   "keywords": [
     "fornax",
     "defi"
@@ -22,6 +22,14 @@
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list/master/assets/asset_BTC.svg"
+    },
+    {
+      "chainId": 13936,
+      "address": "0xB15137DD959B25dD165a9fd89c3b8b4a356f8522",
+      "name": "Dorado",
+      "symbol": "DRD",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/qasimraheem/token-list/master/assets/DRD.png"
     }
   ],
   "version": {
